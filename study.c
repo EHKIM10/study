@@ -6,5 +6,6 @@ int main()
 	printf("add\n");
 	printf("add in master\n");
 	printf("add in test1");
+	printf("add in master\n");
 	return 0;
 }
